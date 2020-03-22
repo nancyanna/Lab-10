@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Music_Player\Music_Player\bin\Debug\netcoreapp2.1\Music_Player.deps.json
+C:\Users\student\source\repos\Music_Player\Music_Player\bin\Debug\netcoreapp2.1\Music_Player.runtimeconfig.json
+C:\Users\student\source\repos\Music_Player\Music_Player\bin\Debug\netcoreapp2.1\Music_Player.runtimeconfig.dev.json
+C:\Users\student\source\repos\Music_Player\Music_Player\bin\Debug\netcoreapp2.1\Music_Player.dll
+C:\Users\student\source\repos\Music_Player\Music_Player\bin\Debug\netcoreapp2.1\Music_Player.pdb
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.AssemblyInfo.cs
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.dll
+C:\Users\student\source\repos\Music_Player\Music_Player\obj\Debug\netcoreapp2.1\Music_Player.pdb
